@@ -1,19 +1,18 @@
 ## Portfolio
 
+About 
+ 
+- Software Engineer with experience in Linux Kernel.
+
+Specialties :
+
+- Programming Languages : C
+- Scripting : Shell Scripting
+- Version Control Systems : Git
+- Build Utilities : GNU make, Yocto, Bitbake
+- Debugging : GDB, KGDB
+- Architecture : ARM, MIPS, x86, PPC
+- IDE : vim, atom 
+
 ---
-
-### Category Name 1 
-
-[Project 1 Title]
-
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-
----
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
